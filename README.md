@@ -12,7 +12,7 @@ requirments
 
 usage
 ===========
-*  run homework03.py such as`$ ruby homework04.rb allwords.txt 18x18`
+*  run homework04.rb such as`$ ruby homework04.rb allwords.txt 18x18`
 *  the last parameter set the target size of the matrix, you can try change it by yourself to find the minimum matrix.
 *  you can find the puzzle by checking the search.txt.
 *  you can find the solution of the generated matrix by checking the solution.txt.
